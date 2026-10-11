@@ -35,6 +35,9 @@ Det skal gøres én gang for hver ny version, du henter.
 - **OCR (tekstgenkendelse)** på dansk og engelsk, der gør scannede sider søgbare og klar til oplæsning. Dobbeltsider deles automatisk i to, og sider, der vender på hovedet eller ligger skævt, rettes op.
 - **Temaer:** Light Mode, Dark Mode, Læse Mode (Light og Dark) med skånsomme farver til lange læsesessioner, og Følg computerens tema.
 - **Fokus Mode**, der kun viser PDF'en, og valg mellem kontinuerlig rulning, én side ad gangen eller to sider ved siden af hinanden.
+- **Sideskift med tastaturet:** → og ← eller mellemrum skifter side, og Home og End springer til første og sidste side.
+- **Faner og flere vinduer:** Hver PDF åbnes i sin egen fane. Træk fanerne rundt, træk en fane ud til sit eget vindue eller over i et andet vindue, ligesom i Finder og Safari. Du kan også trække PDF-filer ind i vinduet for at åbne dem.
+- **Indholdsfortegnelse:** PDF'ens egen indholdsfortegnelse vises i sidepanelet, så du kan springe direkte til et kapitel.
 - **Filpanel** med Skrivebord, Dokumenter, Overførsler, USB-nøgler og OneDrive.
 - **Strømbesparende:** Programmet bruger lige så lidt strøm som Apples Preview, når du læser.
 
