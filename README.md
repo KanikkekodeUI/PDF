@@ -4,9 +4,9 @@
 
 ## ⬇️ Download
 
-**[Hent PDF reader 1.4 her](../../releases/latest)** (nyeste version)
+**[Hent PDF reader 1.4.1 her](../../releases/latest)** (nyeste version)
 
-Klik på filen `PDF-reader-1.4.dmg` under "Assets" på siden.
+Klik på filen `PDF-reader-1.4.1.dmg` under "Assets" på siden.
 
 Kræver macOS 14 (Sonoma) eller nyere og virker på både Apple Silicon (M1, M2, M3 …) og Intel-Mac.
 
