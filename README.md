@@ -4,9 +4,9 @@
 
 ## ⬇️ Download
 
-**[Hent PDF reader 1.3 her](../../releases/latest)** (nyeste version)
+**[Hent PDF reader 1.4 her](../../releases/latest)** (nyeste version)
 
-Klik på filen `PDF-reader-1.3.dmg` under "Assets" på siden.
+Klik på filen `PDF-reader-1.4.dmg` under "Assets" på siden.
 
 Kræver macOS 14 (Sonoma) eller nyere og virker på både Apple Silicon (M1, M2, M3 …) og Intel-Mac.
 
@@ -43,10 +43,12 @@ Dine indstillinger bliver bevaret, fx tema, stemmer og ElevenLabs-nøgle, og din
 ## Funktioner
 
 - **Oplæsning på dansk og engelsk** med Macs egne stemmer. Programmet skifter selv sprog, også midt på en side, og markerer den sætning og det ord, der bliver læst op.
+- **Naturlig oplæsning:** Forkortelser og tal læses helt ud – "fx" bliver til "for eksempel", "s. 12–15" til "side 12 til 15" og "e.g." til "for example". Sidetal, sidehoveder og fodnotetal springes over, og der holdes en pause efter overskrifter og i punktopstillinger.
 - **Spring kildehenvisninger over:** Oplæseren kan springe henvisninger som (Hansen, 2019), (Smith et al., 2020, s. 12) og [12] over, også når de fortsætter fra én side til den næste. Du kan også vælge at springe al tekst i parentes over.
 - **Hastighed fra 0,5× til 3×**, som ændres med det samme, også midt i en sætning.
 - **ElevenLabs-stemmer** som valgfrit tilvalg for meget naturlige stemmer (kræver en API-nøgle fra ElevenLabs og koster penge ud over deres gratisplan).
 - **Overstregning, understregning, gennemstregning og kommentarer** med et kommentarpanel, ligesom i Adobe Acrobat. Fortryd med ⌘Z.
+- **Hurtig gemning:** Kun dine ændringer gemmes, ligesom i Adobe Acrobat. Selv en bog på 800 sider gemmes på under et sekund, og filen vokser ikke unødigt.
 - **Overblik over mange noter:** Saml noterne i dine egne grupper med en selvvalgt titel, fx "Kapitel 2" eller "Til eksamen", eller gruppér dem efter side, type eller farve. Grupperne kan foldes sammen, noter kan trækkes mellem grupperne, og der er kompakt visning, filter og søgning.
 - **OCR (tekstgenkendelse)** på dansk og engelsk, der gør scannede sider søgbare og klar til oplæsning. Dobbeltsider deles automatisk i to, og sider, der vender på hovedet eller ligger skævt, rettes op.
 - **Temaer:** Light Mode, Dark Mode, Læse Mode (Light og Dark) med skånsomme farver til lange læsesessioner, og Følg computerens tema.
