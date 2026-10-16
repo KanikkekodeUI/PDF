@@ -4,9 +4,9 @@
 
 ## ⬇️ Download
 
-**[Hent PDF reader 1.5.1 her](../../releases/latest)** (nyeste version)
+**[Hent PDF reader 1.6 her](../../releases/latest)** (nyeste version)
 
-Klik på filen `PDF-reader-1.5.1.dmg` under "Assets" på siden.
+Klik på filen `PDF-reader-1.6.dmg` under "Assets" på siden.
 
 Kræver macOS 14 (Sonoma) eller nyere og virker på både Apple Silicon (M1, M2, M3 …) og Intel-Mac.
 
@@ -28,6 +28,10 @@ Det skal gøres én gang for hver ny version, du henter.
 
 ## Opdatér til en ny version
 
+**Fra version 1.6:** Vælg **PDF reader → Søg efter opdateringer…** i menulinjen, og tryk på **Opdatér nu**. PDF reader henter, kontrollerer og installerer den nye version og starter igen – uden "Åbn alligevel".
+
+**Har du en ældre version**, så opdatér sådan her:
+
 1. Hent den nyeste DMG-fil via linket under **Download** ovenfor.
 2. Luk PDF reader, hvis programmet er åbent (⌘Q).
 3. Åbn DMG-filen, og træk **PDF reader** over i mappen **Programmer**.
@@ -38,7 +42,7 @@ Dine indstillinger bliver bevaret, fx tema, stemmer og ElevenLabs-nøgle, og din
 
 **Hvilken version har jeg?** Åbn PDF reader, og vælg **PDF reader → Om PDF reader** i menulinjen. Sammenlign med versionsnummeret under [Releases](../../releases).
 
-**Få besked om nye versioner:** PDF reader tjekker ikke selv efter opdateringer, så programmet aldrig kontakter internettet uden din viden. Har du en GitHub-konto, kan du klikke på **Watch → Custom → Releases** øverst på denne side og få en e-mail, når der kommer en ny version.
+**Få besked om nye versioner:** PDF reader tjekker ikke selv efter opdateringer, så programmet aldrig kontakter internettet uden din viden – kun når du vælger Søg efter opdateringer…. Har du en GitHub-konto, kan du klikke på **Watch → Custom → Releases** øverst på denne side og få en e-mail, når der kommer en ny version.
 
 ## Funktioner
 
