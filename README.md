@@ -4,9 +4,9 @@
 
 ## ⬇️ Download
 
-**[Hent PDF reader 1.5 her](../../releases/latest)** (nyeste version)
+**[Hent PDF reader 1.5.1 her](../../releases/latest)** (nyeste version)
 
-Klik på filen `PDF-reader-1.5.dmg` under "Assets" på siden.
+Klik på filen `PDF-reader-1.5.1.dmg` under "Assets" på siden.
 
 Kræver macOS 14 (Sonoma) eller nyere og virker på både Apple Silicon (M1, M2, M3 …) og Intel-Mac.
 
@@ -51,6 +51,9 @@ Dine indstillinger bliver bevaret, fx tema, stemmer og ElevenLabs-nøgle, og din
 - **Hurtig gemning:** Kun dine ændringer gemmes, ligesom i Adobe Acrobat. Selv en bog på 800 sider gemmes på under et sekund, og filen vokser ikke unødigt.
 - **Overblik over mange noter:** Saml noterne i dine egne grupper med en selvvalgt titel, fx "Kapitel 2" eller "Til eksamen", eller gruppér dem efter side, type eller farve. Grupperne kan foldes sammen, noter kan trækkes mellem grupperne, og der er kompakt visning, filter og søgning.
 - **OCR (tekstgenkendelse)** på dansk og engelsk, der gør scannede sider søgbare og klar til oplæsning. Dobbeltsider deles automatisk i to, og sider, der vender på hovedet eller ligger skævt, rettes op – hver side for sig. Kun de skannede sider udskiftes, så digital tekst aldrig røres.
+- **Søgning med ⌘F**, der markerer alle steder, ordet står, viser hvor mange der er, og viser dem som små streger i kanten af dokumentet.
+- **Eksportér noter** til Word, Markdown eller tekst med sidetal, markeret tekst og grupper – og **kopiér med kildehenvisning**, fx “…” (Ashworth, s. 17).
+- **Ødelagte bogstavpar rettes:** PDF'er, hvor "ofte" står som "o#e", læses op, søges i og kopieres korrekt.
 - **Ingen falske mellemrum i ord:** PDF'er, hvor der kommer mellemrum midt i ord ("Y ork"), læses op, søges i og kopieres korrekt ("York"). OCR-vinduet kan også rette PDF'ens eget tekstlag, så kopiering til Word og andre programmer giver den rigtige tekst.
 - **Temaer:** Light Mode, Dark Mode, Læse Mode (Light og Dark) med skånsomme farver til lange læsesessioner, og Følg computerens tema.
 - **Fokus Mode**, der kun viser PDF'en, og valg mellem kontinuerlig rulning, én side ad gangen eller to sider ved siden af hinanden.
