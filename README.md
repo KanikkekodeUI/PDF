@@ -4,9 +4,9 @@
 
 ## ⬇️ Download
 
-**[Hent PDF reader 1.6 her](../../releases/latest)** (nyeste version)
+**[Hent PDF reader 1.6.1 her](../../releases/latest)** (nyeste version)
 
-Klik på filen `PDF-reader-1.6.dmg` under "Assets" på siden.
+Klik på filen `PDF-reader-1.6.1.dmg` under "Assets" på siden.
 
 Kræver macOS 14 (Sonoma) eller nyere og virker på både Apple Silicon (M1, M2, M3 …) og Intel-Mac.
 
@@ -55,6 +55,10 @@ Dine indstillinger bliver bevaret, fx tema, stemmer og ElevenLabs-nøgle, og din
 - **Hurtig gemning:** Kun dine ændringer gemmes, ligesom i Adobe Acrobat. Selv en bog på 800 sider gemmes på under et sekund, og filen vokser ikke unødigt.
 - **Overblik over mange noter:** Saml noterne i dine egne grupper med en selvvalgt titel, fx "Kapitel 2" eller "Til eksamen", eller gruppér dem efter side, type eller farve. Grupperne kan foldes sammen, noter kan trækkes mellem grupperne, og der er kompakt visning, filter og søgning.
 - **OCR (tekstgenkendelse)** på dansk og engelsk, der gør scannede sider søgbare og klar til oplæsning. Dobbeltsider deles automatisk i to, og sider, der vender på hovedet eller ligger skævt, rettes op – hver side for sig. Kun de skannede sider udskiftes, så digital tekst aldrig røres.
+- **Fortsæt hvor du slap:** PDF'en åbner på det sted, du sidst var, og oplæsningen fortsætter, hvor den stoppede.
+- **Egne bogmærker** (⌘D) i sidepanelet, så du hurtigt kan hoppe tilbage til vigtige sider.
+- **Udskriv** (⌘P) altid i de rigtige farver – også i Læse Mode og Dark Mode – med eller uden dine overstregninger og kommentarer.
+- **Slå op:** Højreklik på et ord for at se det i macOS' ordbog.
 - **Søgning med ⌘F**, der markerer alle steder, ordet står, viser hvor mange der er, og viser dem som små streger i kanten af dokumentet.
 - **Eksportér noter** til Word, Markdown eller tekst med sidetal, markeret tekst og grupper – og **kopiér med kildehenvisning**, fx “…” (Ashworth, s. 17).
 - **Ødelagte bogstavpar rettes:** PDF'er, hvor "ofte" står som "o#e", læses op, søges i og kopieres korrekt.
